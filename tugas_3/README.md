@@ -1,4 +1,3 @@
-## BigData_Tugas3
 # Dokumentasi Praktek Recommendation System menggunakan KNIME
 
 # Business Understanding
